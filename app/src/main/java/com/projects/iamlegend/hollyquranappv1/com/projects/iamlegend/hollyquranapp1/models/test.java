@@ -6,6 +6,11 @@ package com.projects.iamlegend.hollyquranappv1.com.projects.iamlegend.hollyquran
 
 public class test {
 
+    String myTestAttribute;
     public test() {
+    }
+
+    public test(String myTestAttribute) {
+        this.myTestAttribute = myTestAttribute;
     }
 }
