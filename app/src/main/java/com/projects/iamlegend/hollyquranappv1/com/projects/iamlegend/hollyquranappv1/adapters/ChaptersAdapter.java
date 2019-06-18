@@ -60,7 +60,7 @@ public class ChaptersAdapter extends RecyclerView.Adapter<ChaptersAdapter.ViewHo
                     .getIdentifier("madina", "drawable","com.projects.iamlegend.hollyquranappv1");
             //locationImage =  viewHolder.Iv_chapterLocation.getContext().getDrawable(R.drawable.madina);
         viewHolder.Iv_chapterLocation.setImageResource(locationImage);
-
+        //This is a test comment
         ///TODO  check for the listener
         if(OnItemClickListener!=null)
         {
