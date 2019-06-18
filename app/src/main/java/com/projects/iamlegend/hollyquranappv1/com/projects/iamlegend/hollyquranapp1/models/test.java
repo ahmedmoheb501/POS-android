@@ -5,4 +5,7 @@ package com.projects.iamlegend.hollyquranappv1.com.projects.iamlegend.hollyquran
  */
 
 public class test {
+
+    public test() {
+    }
 }
