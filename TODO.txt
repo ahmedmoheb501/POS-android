@@ -1,0 +1,14 @@
+show hadeth in Dialog Fragment  	--dn
+some ayat are right aligned   		--dn
+make the a7adeth a full screen   	--dn
+change the theme for the whole application
+Make Bottom navigation group		--dn
+hadeth items ui    			--dn
+Dialog Fragment 
+
+-----
+Seb7a coding	
+English version 			--prog
+UI
+publish on GP
+

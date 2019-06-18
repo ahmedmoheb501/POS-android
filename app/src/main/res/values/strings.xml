@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Holly App</string>
+    <string name="sebhabtn">Electronic Sebha</string>
+    <string name="hollyquranbtn">Holly Quran</string>
+    <string name="sebhaTitle">Electronic Sebha</string>
+    <array name="tasbeeh_array">
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+        <item>الله أكبر</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sunnahSaying">Holly Prophet Speeches</string>
+    <string name="total_tasbeeh">Total Mentions</string>
+    <string name="tasbeeha_number">Mention Number</string>
+    <string name="holly_prophet_speech">Holly Prophet Speech</string>
+</resources>

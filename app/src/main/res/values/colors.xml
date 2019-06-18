@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47372d</color>
+    <color name="colorPrimaryDark">#030207</color>
+    <color name="colorAccent">#ebc468</color>
+    <color name="kamoni">#635E1E</color>
+    <color name="darkBrown">#734809</color>
+    <color name="textWhite">#FFF</color>
+    <color name="trans">#00FFFFFF</color>
+    <color name="hadeth_item_bg">#FEA900</color>
+</resources>

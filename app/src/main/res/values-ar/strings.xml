@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التطبيق الاسلامى</string>
+    <string name="sebhabtn">السبحة الالكترونية</string>
+    <string name="hollyquranbtn">القران الكريم</string>
+    <string name="sebhaTitle">السبحة الالكترونية</string>
+    <string name="sunnahSaying">احاديث شريفة</string>
+    <string name="hello_blank_fragment">اهلا</string>
+    <string name="total_tasbeeh">مجموع التسبيحات</string>
+    <string name="tasbeeha_number">التسبيحة</string>
+    <string name="holly_prophet_speech">الأحاديث النبوية الشريفة</string>
+</resources>

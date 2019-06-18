@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navegation_quran"
+        android:icon="@drawable/ic_quran"
+        android:title="@string/hollyquranbtn" />
+    <item
+        android:id="@+id/navigation_hadeeth"
+        android:icon="@drawable/ic_hadeeth"
+        android:title="@string/holly_prophet_speech" />
+    <item
+        android:id="@+id/navigation_tasbeh"
+        android:icon="@drawable/ic_sebha"
+        android:title="@string/sebhaTitle" />
+
+</menu>
